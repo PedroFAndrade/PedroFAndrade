@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFAndrade&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFAndrade&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFAndrade&langs_count=6&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
